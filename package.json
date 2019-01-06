@@ -1,0 +1,31 @@
+{
+  "name": "plustest",
+  "description": "plustest",
+  "version": "2.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/then/fs.git"
+  },
+  "keywords": [
+    "promise",
+    "then",
+    "fs",
+    "core"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/then/fs/issues"
+  },
+  "devDependencies": {
+    "bash-color": "0.0.3"
+  },
+  "dependencies": {
+  "fs": "0.0.1-security",
+  "discord.js": "11.1.0"
+    }
+}
