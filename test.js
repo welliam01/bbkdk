@@ -27,7 +27,7 @@ client.on('message', message => {
   }});
 
 client.on('ready', function(){
-    bot.user.setStatus("dnd");
+    client.user.setStatus("dnd");
     var ms = 10000 ;
     var setGame = [`Youssef The Best 𖡃`];
     var i = -1;
